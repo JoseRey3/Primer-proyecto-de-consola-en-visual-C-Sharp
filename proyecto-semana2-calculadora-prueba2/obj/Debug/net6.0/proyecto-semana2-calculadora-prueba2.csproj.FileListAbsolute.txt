@@ -1,0 +1,15 @@
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\bin\Debug\net6.0\proyecto-semana2-calculadora-prueba2.exe
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\bin\Debug\net6.0\proyecto-semana2-calculadora-prueba2.deps.json
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\bin\Debug\net6.0\proyecto-semana2-calculadora-prueba2.runtimeconfig.json
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\bin\Debug\net6.0\proyecto-semana2-calculadora-prueba2.dll
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\bin\Debug\net6.0\proyecto-semana2-calculadora-prueba2.pdb
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\obj\Debug\net6.0\proyecto-semana2-calculadora-prueba2.csproj.AssemblyReference.cache
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\obj\Debug\net6.0\proyecto-semana2-calculadora-prueba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\obj\Debug\net6.0\proyecto-semana2-calculadora-prueba2.AssemblyInfoInputs.cache
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\obj\Debug\net6.0\proyecto-semana2-calculadora-prueba2.AssemblyInfo.cs
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\obj\Debug\net6.0\proyecto-semana2-calculadora-prueba2.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\obj\Debug\net6.0\proyecto-semana2-calculadora-prueba2.dll
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\obj\Debug\net6.0\refint\proyecto-semana2-calculadora-prueba2.dll
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\obj\Debug\net6.0\proyecto-semana2-calculadora-prueba2.pdb
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\obj\Debug\net6.0\proyecto-semana2-calculadora-prueba2.genruntimeconfig.cache
+C:\Users\joser\source\repos\proyecto-semana2-calculadora-prueba2\obj\Debug\net6.0\ref\proyecto-semana2-calculadora-prueba2.dll
